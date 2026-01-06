@@ -26,7 +26,8 @@ This project aims to help understand how academic performance and other factors 
 
 ## 📊 Algorithms Used
 - Logistic Regression  
-- K-Nearest Neighbors (KNN)  
+- K-Nearest Neighbors (KNN)
+- Decision Tree 
 - **Support Vector Machine (SVM)** ✅ *(Final Model)*
 
 SVM was selected due to its better performance and balanced classification results.
