@@ -11,7 +11,7 @@ This project aims to help understand how academic performance and other factors 
 
 ---
 
-## 🧠 Machine Learning Workflow
+## 🧠 Machine Learning Workflows
 1. Data Collection
 2. Data Cleaning & Preprocessing
 3. One-Hot Encoding of categorical features
