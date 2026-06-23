@@ -61,7 +61,7 @@ Real-world ML deployment using Streamlit
 GitHub project structuring
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Sumit Gupta
 Aspiring AI / Machine Learning Engineer
