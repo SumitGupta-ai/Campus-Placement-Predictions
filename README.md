@@ -53,7 +53,7 @@ SVM was selected due to its better performance and balanced classification resul
 
 ---
 
-🎯 Key Learnings
+## 🎯 Key Learnings
 End-to-end Machine Learning pipeline
 Feature engineering and preprocessing
 Model comparison and selection
